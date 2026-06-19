@@ -1,6 +1,5 @@
 # 🔬 Elsevier Paper Alert Agent.
 
-
 An autonomous Python agent that monitors the **Elsevier Scopus API** every 30 minutes and sends you an **email alert** whenever a new research paper matching your keywords is published.
 
 ---
